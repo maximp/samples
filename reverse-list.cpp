@@ -1,3 +1,5 @@
+// use: `make reverse-list` command to build a binary
+
 #include <ostream>
 #include <iostream>
 
